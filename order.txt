@@ -1,0 +1,1 @@
+python human_pose_estimation_demo.py -m human-pose-estimation-0001.xml -at openpose -i D:\openvino\humampose\assets\fuwocheng2.mp4 -d CPU -o D:\openvino\humampose\assets\output2.avi
