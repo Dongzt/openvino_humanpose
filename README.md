@@ -1,4 +1,7 @@
-# human-pose-estimation-0001
+# openvino_humanpose
+This project is based on the Intel openvino tool suite and is rewritten using the Intel public model. It can realize the standard recognition of human push-ups. The following is the official document of the model
+
+## human-pose-estimation-0001
 
 ## Use Case and High-Level Description
 
